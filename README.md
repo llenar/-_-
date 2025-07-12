@@ -53,4 +53,5 @@ fi
 ```
 
 https://github.com/llenar/-_-/blob/main/crontab
-![alt text](https://github.com/llenar/-_-/blob/main/screen/2/Screen_1.png)
+![alt text](https://github.com/llenar/-_-/blob/main/screen/2/Screen_2_1.png)
+![alt text](https://github.com/llenar/-_-/blob/main/screen/2/Screen_2_2.png)
