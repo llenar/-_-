@@ -11,7 +11,8 @@
 rsync -a --checksum --verbose --delete --progress --exclude '.*' /home/vboxuser/ /tmp/backup
 ```
 
-![alt text](https://github.com/llenar/-_-/blob/main/screen/Screenshot_1.png)
+![alt text](https://github.com/llenar/-_-/blob/main/screen/Screen_1.png)
 
+![alt text](https://github.com/llenar/-_-/blob/main/screen/Screen_2.png)
 
-![alt text](https://github.com/llenar/-_-/blob/main/screen/Screenshot_3.png)
+![alt text](https://github.com/llenar/-_-/blob/main/screen/Screen_3.png)
