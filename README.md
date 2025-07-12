@@ -28,7 +28,7 @@ rsync -a --checksum --verbose --delete --progress --exclude '.*' /home/vboxuser/
 
 # Решение 2
 
-
+https://github.com/llenar/-_-/blob/main/backup_home.sh
 ```
 #!/bin/bash
 
@@ -51,3 +51,5 @@ else
 fi
 
 ```
+
+
